@@ -8,7 +8,7 @@ body {
 th {
     background-color: lightblue;
 }
-th th {
+th, th {
     width: 114px;
     height: 32px;
     border: 1px solid #ccc;
